@@ -1,0 +1,13 @@
+package com.cil4sys.poc;
+
+public class FirstClassPoc {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public void display() {
+		System.out.println("Hello world");
+	}
+
+}

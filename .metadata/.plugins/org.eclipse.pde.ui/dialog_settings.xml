@@ -24,4 +24,10 @@
 			<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
 		</section>
 	</section>
+	<section name="ConvertedProjectWizard">
+		<item key="apiAnalysis" value="false"/>
+	</section>
+	<section name="pde-form-editor">
+		<item key="org.eclipse.pde.ui.manifestEditor" value="overview"/>
+	</section>
 </section>

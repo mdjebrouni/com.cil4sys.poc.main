@@ -6,3 +6,5 @@ Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: CIL4SYS
 Automatic-Module-Name: com.cil4sys.poc
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: com.cil4sys.poc
+Require-Bundle: org.junit;bundle-version="4.13.0"

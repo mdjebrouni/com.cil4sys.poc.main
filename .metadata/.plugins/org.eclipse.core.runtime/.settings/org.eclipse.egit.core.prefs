@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=/home/cil4sys/workspace/com.cil4sys.poc.main/.git\:/home/cil4sys/git/repository/.git\:
-GitRepositoriesView.GitDirectories.relative=com.cil4sys.poc.main/.git\:/home/cil4sys/git/repository/.git\:
+GitRepositoriesView.GitDirectories=/home/cil4sys/workspace/com.cil4sys.poc.main/.git\:/home/cil4sys/workspace/.git\:/home/cil4sys/git/repository/.git\:
+GitRepositoriesView.GitDirectories.relative=com.cil4sys.poc.main/.git\:.git\:/home/cil4sys/git/repository/.git\:
 RepositorySearchDialogSearchPath=/home/cil4sys/git
 eclipse.preferences.version=1

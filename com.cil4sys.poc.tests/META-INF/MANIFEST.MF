@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tests
+Bundle-SymbolicName: com.cil4sys.poc.tests
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: CIL4SYS
+Automatic-Module-Name: com.cil4sys.poc.tests
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.cil4sys.poc,
+ org.junit
+Export-Package: com.cil4sys.poc.tests
+Require-Bundle: com.cil4sys.poc;bundle-version="1.0.0",
+ org.junit;bundle-version="4.13.0"

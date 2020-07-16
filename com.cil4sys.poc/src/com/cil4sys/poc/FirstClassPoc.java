@@ -1,15 +1,13 @@
 package com.cil4sys.poc;
 
 public class FirstClassPoc {
-
-	public static void main(String[] args) {
-		System.out.println("Hello word");
-
+	
+		public static int add( int operand1, int operand2 ) {
+			return operand1 + operand2;
+			}
 		
-	}
-	public String display() {
-		String str = "Hello world";
-		return str;
-	}
+		public static int div( int operand1 , int operand2 ) {
+			return operand1 / operand2;
+			}
 
 }

@@ -7,13 +7,14 @@
   <modules>
   	<module>../com.cil4sys.poc</module>
   	<module>../com.cil4sys.poc.feature</module>
-  	<module>../com.cil4sys.poc.test</module>
+  	
+  	<module>../com.cil4sys.poc.tests</module>
   </modules>
   <dependencies>
   	<dependency>
-  		<groupId>junit</groupId>
-  		<artifactId>junit</artifactId>
-  		<version>3.8.2</version>
-  	</dependency>
+  <groupId>junit</groupId>
+  <artifactId>junit</artifactId>
+  <version>4.13</version>
+  </dependency>
   </dependencies>
 </project>

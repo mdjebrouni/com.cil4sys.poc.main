@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="com.cil4sys.poc.tests"/>
 			<item value="com.cil4sys.poc.main"/>
 			<item value="com.cil4sys.poc.test"/>
 			<item value="com.cil4sys.poc.feature"/>
@@ -10,6 +11,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="com.cil4sys.poc.tests"/>
 			<item value="com.cil4sys.poc.main"/>
 			<item value="com.cil4sys.poc.test"/>
 			<item value="com.cil4sys.poc.feature"/>
